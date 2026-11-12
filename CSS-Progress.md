@@ -1,57 +1,51 @@
-CSS Learning Progress | Practical Exercises
+# CSS Learning Progress
 
-A hands-on learning journey focused on understanding CSS fundamentals and translating visual design concepts into web interfaces.
+**Practical Exercises | Design-to-Code Development**
 
-This repository documents my practical exercises as I develop the technical foundation to grow as a UI/UX Engineer.
+A practical record of my CSS learning journey, focused on understanding how visual design concepts translate into structured and styled web interfaces.
 
-Topics Practiced
+As an aspiring **UI/UX Engineer**, I am strengthening my technical foundation to better understand interface implementation and collaborate effectively with frontend development teams.
 
-01. CSS Selectors
+---
 
-Element Selectors
+## Technical Practice
 
-Class Selectors
+### 01. CSS Selectors
+- Element Selectors
+- Class Selectors
+- Targeting HTML elements
+- Applying styles to multiple elements
 
-Targeting HTML elements using CSS
+### 02. CSS Colors
+- `color` property
+- Named color values
+- Applying text colors to HTML elements
 
-Applying styles to multiple elements
+### 03. CSS Comments
+- CSS comment syntax (`/* ... */`)
+- Documenting CSS code
+- Improving code readability
 
-02. CSS Colors
+### 04. CSS Backgrounds
+- `background-image` property
+- CSS `url()` function
+- Multiple background images
+- Relative image paths
+- Linking external image assets
 
-color property
+---
 
-Named Colors (Red, Blue)
+## Tools & Technologies
 
-Applying text colors to HTML elements
+- **Markup:** HTML5
+- **Styling:** CSS3
+- **Code Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
 
-03. CSS Comments
+## Learning Objective
 
-CSS Comment Syntax (/* ... */)
+Developing a stronger understanding of frontend fundamentals to bridge the gap between UI/UX design and implementation.
 
-Adding comments to CSS code
+**Status:** Currently Learning
 
-Improving code readability and organization
-
-04. CSS Backgrounds
-
-background-image property
-
-Using multiple background images
-
-CSS url() function
-
-Relative image paths
-
-Linking external image assets
-
-Development Environment
-
-HTML5 & CSS3
-
-Visual Studio Code
-
-Git & GitHub
-
-Learning Objective
-
-Building a stronger understanding of how web interfaces are structured and styled, improving design-to-code knowledge, and collaborating more effectively with frontend engineering teams.
+**Next Focus:** CSS Box Model, Typography, Flexbox, Grid and Responsive Design.
