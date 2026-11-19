@@ -1,0 +1,16 @@
+#border{
+    border-top-style: /*solid;dashed;double;groove;ridge;inset;outset;none;hidden*/ solid;
+}
+
+#border2{
+    background-color: rgb(159, 211, 240);
+    border-style: solid dashed none groove;
+    border-width: 2px;
+    border-color: brown;
+}
+
+#border3{
+   border: 5px solid red;
+   border-radius: 5px;
+   width: 300px;
+}
